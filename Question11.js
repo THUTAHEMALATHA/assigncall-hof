@@ -11,4 +11,4 @@ const inputProducts = [
   { name: "Mouse", price: 20 }
 ];
 
-processProducts(inputProducts);
+processProducts(Products);
